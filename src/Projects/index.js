@@ -53,7 +53,7 @@ class Projects extends Component {
 
   render() {
     const {dataItems, isLoading, isFailure} = this.state
-    console.log('hi', dataItems)
+    // console.log('hi', dataItems)
 
     return (
       <div>
