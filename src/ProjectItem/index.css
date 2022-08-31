@@ -1,0 +1,11 @@
+.projectItemContainer {
+  box-shadow: 0px 0px 20px 5px #c6c9cc;
+  margin: 10px;
+  border-radius: 15px;
+  list-style: none;
+}
+
+.para {
+  font-weight: bold;
+  padding: 10px;
+}
